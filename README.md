@@ -1,3 +1,3 @@
 # HackerRank OOP practice HW in Java
 
-![completed challenges](/Screen Shot 2018-03-08 at 12.29.10 AM.png?raw=true "Completed Challenges Screenshot")
+![completed challenges](https://github.com/Dawa12/hackerRank/blob/master/Screen%20Shot%202018-03-08%20at%2012.29.10%20AM.png?raw=true "Completed Challenges Screenshot")
